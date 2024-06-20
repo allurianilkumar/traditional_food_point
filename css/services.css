@@ -1,0 +1,19 @@
+.center{	
+	text-align: center;
+}
+.col-md-4.carouselinfo.pull-right {
+    margin-right: 39px;
+}
+h3#simple_heading {   
+	margin-left: 12px;
+}
+p#sub_info {
+	margin-left: 100px;
+}
+section.services-section {
+	margin-top: 70px;
+	margin-left: 12px;
+}
+div#myCarousel {
+	margin-top: 25px;
+}
